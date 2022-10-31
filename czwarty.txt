@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 WITAM :) 
+=======
+CZEŚĆ 
+>>>>>>> 9992cf92ad57390c16fff3eadc6cd784cc94032b
